@@ -1,7 +1,7 @@
 # Hey there, I'm Roshan Deen 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React;AWS+%7C+DevOps+Engineer;AI+%2F+ML+Engineer;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React;AWS+%7C+DevOps+Engineer;AI+%2F+ML+Engineer;Open+Source+Contributor;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,8 +18,23 @@
 - 🐍 Strong expertise in **Python** ecosystem — Django, FastAPI, Flask
 - ☁️ Cloud-native developer with hands-on **AWS** & **DevOps** experience
 - 🤖 Building intelligent apps using **Machine Learning** & **LLM-powered** pipelines
+- 🌍 Active **Open Source Contributor** — solving real-world issues on GitHub
 - 💼 Available for freelance projects on **Upwork**
 - 📫 Reach me at **roshandeenfullstackus@gmail.com**
+
+---
+
+## 💼 Experience & Contributions
+
+### 🏢 Professional
+- 🚀 **Open Source Contributor** — Solving bounty issues on [Algora](https://algora.io) & [Opire](https://opire.dev)
+- 🏆 **Topcoder Competitor** — Participating in Dev & Data Science challenges
+- 💻 **Freelance Developer** — Available on [Upwork](https://www.upwork.com/freelancers/~017d9e8210f57283de)
+
+### 🌟 Open Source
+- 🔧 Contributing to production-grade codebases
+- 🐛 Bug fixes & feature implementations across Python, TypeScript, React projects
+- 📦 Working with real companies like **Archestra AI**, **Capgo** and more
 
 ---
 
@@ -65,12 +80,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoshanDeenSDE&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanDeenSDE&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RoshanDeenSDE&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=RoshanDeenSDE&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanDeenSDE&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanDeenSDE&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RoshanDeenSDE&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -97,4 +120,4 @@
   <img src="https://komarev.com/ghpvc/?username=RoshanDeenSDE&color=1D9E75&style=flat-square&label=Profile+Views" />
 </p>
 
-<p align="center">⚡ <i>Open to full-time roles & freelance projects — let's build something amazing!</i></p>
+<p align="center">⚡ <i>Open to full-time roles, bounty projects & freelance work — let's build something amazing!</i></p>
